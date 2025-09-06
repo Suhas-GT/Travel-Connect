@@ -1,0 +1,6 @@
+ngrok http --url=major-exactly-stallion.ngrok-free.app http://0.0.0.0:5000
+
+
+page url= https://rzp.io/rzp/QaYmtyvo
+
+google maps api key  : AIzaSyD0j1391H2obV7FGJHBYC2cj1SnrrrDu08
